@@ -1,12 +1,4 @@
-<div align="center">
-
 # 🫀 Explainable AI for Heart Disease Prediction
-
-[![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python)](https://python.org)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=flat-square&logo=streamlit)](https://streamlit.io)
-[![XGBoost](https://img.shields.io/badge/XGBoost-91%25_Accuracy-orange?style=flat-square)](https://xgboost.readthedocs.io)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-[![Plagiarism](https://img.shields.io/badge/Plagiarism-0%25_Original-brightgreen?style=flat-square)]()
 
 ### Making AI decisions in healthcare **transparent**, **trustworthy**, and **clinically actionable**
 
@@ -14,8 +6,6 @@
 *Dr. Vishwanath Karad MIT World Peace University, Pune*
 
 ---
-
-</div>
 
 ## 📌 Table of Contents
 
@@ -313,8 +303,6 @@ shap.summary_plot(shap_values, X_test, feature_names=X.columns.tolist())
 
 ## 📸 Screenshots
 
-> *(Add screenshots of your Streamlit dashboard here after running the app)*
-
 ### Dashboard Overview
 ![Dashboard](outputs/dashboard_overview.png)
 
@@ -326,7 +314,6 @@ shap.summary_plot(shap_values, X_test, feature_names=X.columns.tolist())
 
 ### ROC-AUC Curve Comparison
 ![ROC Curve](outputs/roc_curve_comparison.png)
-
 
 ---
 
