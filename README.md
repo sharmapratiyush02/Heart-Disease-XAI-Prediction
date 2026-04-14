@@ -332,8 +332,6 @@ shap.summary_plot(shap_values, X_test, feature_names=X.columns.tolist())
 
 ## 👤 Author
 
-<div align="center">
-
 **Pratiyush Sharma**
 CSE-AIDS
 
@@ -348,5 +346,3 @@ Academic Year: 2025–2026
 ---
 
 ⭐ *If you found this project useful, consider starring the repository!*
-
-</div>
